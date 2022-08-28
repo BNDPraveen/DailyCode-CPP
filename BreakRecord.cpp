@@ -1,5 +1,4 @@
-//link https://www.hackerrank.com/challenges/day-of-the-programmer?h_r=next-challenge&h_v=legacy
-
+// https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true
 #include<bits/stdc++.h>
 using namespace std;
 
